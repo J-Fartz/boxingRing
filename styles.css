@@ -1,0 +1,30 @@
+body {
+    background-color: blue;
+    color: antiquewhite;
+    text-align: center;
+    
+}
+
+.flex-box {
+    display: flex;
+}
+
+.row {
+    flex: 1;
+    height: 20%;
+
+}
+
+.info {
+    background-color: rgb(145, 145, 11)
+}
+
+.item {
+    flex: 1;
+    height: 20%;
+    background-color: rgb(251, 74, 74);
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-bottom: 25%;
+    align-items: center;
+}
